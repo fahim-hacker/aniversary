@@ -235,12 +235,12 @@ h1 #letter:nth-child(22) {
 
 @keyframes color-change {
   from {
-    background: rgba(255, 255, 0, 0.603);
-    box-shadow: 0 0 20px rgba(255, 255, 0, 0.3);
+    background: rgba(255, 255, 0, 0.8);
+    box-shadow: 0 0 20px rgba(255, 255, 0, 0.8);
   }
   to {
-    background: rgba(255, 255, 0, 0.603);
-    box-shadow: 0 0 20px rgba(255, 255, 0, 0.3);
+    background: rgba(255, 255, 0, 0.8);
+    box-shadow: 0 0 20px rgba(255, 255, 0, 0.8);
     transform: translate(45vw, -20vh);
   }
 }
